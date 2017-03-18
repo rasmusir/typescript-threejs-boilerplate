@@ -1,0 +1,29 @@
+{
+  "name": "typescript-threejs-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for TypeScript and Three.js",
+  "main": "example/bin/example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmusir/typescript-threejs-boilerplate.git"
+  },
+  "keywords": [
+    "threejs",
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Rasmus Israelsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasmusir/typescript-threejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rasmusir/typescript-threejs-boilerplate#readme",
+  "dependencies": {
+    "@types/three": "^0.84.2",
+    "three": "^0.84.0",
+    "typescript": "^2.2.1"
+  }
+}
